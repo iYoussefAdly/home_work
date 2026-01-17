@@ -1,0 +1,4 @@
+/*
+num can store int or double datatypes 
+but double store variables of type double onlyq
+ */

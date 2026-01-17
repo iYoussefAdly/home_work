@@ -1,0 +1,1 @@
+//main function is the start point of any program the program can't run without main function
